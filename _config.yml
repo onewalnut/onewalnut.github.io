@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "  He Tao' Homepage"
+title                    : "He Tao' Homepage"
 title_separator          : "-"
 name                     : &name "He Tao"
 description              : &description "Ph.D. student in School of Computer Sencience and Engineering, Sun Yat-sen University (SYSU)"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "He Tao | 何  涛"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in School of Computer Sencience and Engineering, Sun Yat-sen University (SYSU)"
+  bio              : "Ph.D. student in School of Computer Sencience and Engineering, SYSU"
   location         : "Guangzhou, China"
   employer         :
   email            : "hetao23@mail2.sysu.edu.cn"
