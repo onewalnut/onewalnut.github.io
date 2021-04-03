@@ -12,7 +12,8 @@ author_profile: true
 2021
 --------
 * **Multi-Class Learning using Unlabeled Samples: Theory and Algorithm.**  
-  Jian Li, Yong Liu, Rong Yin, Weiping Wang. In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019).    
+  Jian Li, Yong Liu, Rong Yin, Weiping Wang.     
+  In Proceedings of the 28th International Joint Conference on Artificial Intelligence (IJCAI 2019).    
   [[PDF]](http://academicpages.github.io/files/paper3.pdf)  [[Code]](http://academicpages.github.io/files/paper3.pdf)  [[Slide]](http://academicpages.github.io/files/paper3.pdf)
 
 
