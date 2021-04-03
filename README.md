@@ -1,1 +1,1 @@
-Homepage set up based on 
+This homepage is powered by the academicpages template and hosted on GitHub pages.
