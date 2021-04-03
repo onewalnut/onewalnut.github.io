@@ -7,16 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Curriculum Vitae
--------
+--------
 [Download English CV here](https://www.hetaooo.com/files/paper1.pdf)  
 [Download Chinese CV here](https://www.hetaooo.com//files/paper2.pdf)  
 
-
 Contact
--------
+--------
 Intelligent and Multimedia Science Laboratory,  
 School of Computer Science and Engineering,  
 Sun Yat-sen University  
