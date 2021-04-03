@@ -11,3 +11,7 @@ main:
     
   - title: "CV&Contact"
     url: /cv/
+
+    - title: "Docs"
+    url: /docs/
+
