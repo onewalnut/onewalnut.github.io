@@ -1,6 +1,7 @@
 ---
 permalink: /
-
+title: "Home"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +9,6 @@ redirect_from:
 ---
 
 
---------
 I am currently a Ph.D. student in [School of Computer Science and Engineering](http://sdcs.sysu.edu.cn), [Sun Yat-sen University](http://www.sysu.edu.cn),  supervised by Prof. [Ning Liu](http://sdcs.sysu.edu.cn/node/2495) in [Intelligent and Multimedia Science Laboratory](https://www.sysu-imsl.com). 
 
 My research interests mainly lie in Computer Network and Wireless Communication, particularly about **Indoor Localiztion and Mobile Computing**.
