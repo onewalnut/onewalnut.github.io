@@ -2,16 +2,12 @@
 main:
   - title: "Publications"
     url: /publications/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blogs"
     url: /year-archive/
-    
+
+  - title: "Portfolio"
+    url: /portfolio/
+
   - title: "CV&Contact"
     url: /cv/
-
-  - title: "Docs"
-    url: /docs/
-

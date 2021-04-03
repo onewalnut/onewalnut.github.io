@@ -5,9 +5,6 @@ permalink: /docs/
 author_profile: true
 ---
 
-Curriculum Vitae
---------
-[Download English CV here](https://www.hetaooo.com/files/paper1.pdf)  
-[
+Some documents Shared here.
 
 
