@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "He Tao' Homepage"
+title                    : "  He Tao' Homepage"
 title_separator          : "-"
 name                     : &name "He Tao"
-description              : &description "personal description"
+description              : &description "Ph.D. student in School of Computer Sencience and Engineering, Sun Yat-sen University (SYSU)"
 url                      : https://www.hetaooo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "onewalnut/onewalnut.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &onewalnut
 facebook:
   username               :
   app_id                 :
@@ -81,15 +81,15 @@ analytics:
 # Site Author
 author:
   name             : "He Tao | 何  涛"
-  avatar           : "profile.png"
-  bio              : "Indoor Localization"
+  avatar           : "profile.jpg"
+  bio              : "Ph.D. student in School of Computer Sencience and Engineering, Sun Yat-sen University (SYSU)"
   location         : "Guangzhou China"
   employer         :
+  email            : "hetao23@mail2.sysu.edu.cn"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=ETHNJ0QAAAAJ&hl=zh-CN"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
