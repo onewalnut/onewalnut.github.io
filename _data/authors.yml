@@ -9,12 +9,13 @@ Name Name:
   twitter     : "onewalnut"
   google_plus : "onewalnut"
   googlescholar : "https://scholar.google.com/citations?user=ETHNJ0QAAAAJ&hl=zh-CN"
-  
 
-Name2 Name2:
+
+Author Author:
   name        : "Name2 Name2"
   email       : "name2@name2.com"
   bio         : "I ordered what?"
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+  googlescholar : "https://scholar.google.com/citations?user=ETHNJ0QAAAAJ&hl=zh-CN"
