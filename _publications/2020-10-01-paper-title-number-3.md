@@ -2,10 +2,9 @@
 title: "Indoor Localization"
 collection: publications
 permalink: /publication/2020-10-01-paper-title-number-3
-excerpt: 'description'
-date: 2020-10-01
-venue: 'April 1'
-paperurl: 'http://hetaooo/files/paper3.pdf'
+date: 2025-10-01
+venue: 'TVT'
+[pdf](http://academicpages.github.io/files/paper3.pdf) [code](http://academicpages.github.io/files/paper3.pdf)
 ---
 This paper is indoor localization.
 
