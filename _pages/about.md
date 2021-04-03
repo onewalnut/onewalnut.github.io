@@ -1,6 +1,5 @@
 ---
 permalink: /
-
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
 I am currently a Ph.D. student in [School of Computer Science and Engineering](http://sdcs.sysu.edu.cn/), [Sun Yat-sen University](http://www.sysu.edu.cn/), under the supervision of [Prof. Ning Liu](http://sdcs.sysu.edu.cn/node/2495) in [Intelligent and Multimedia Science Laboratory](https://www.sysu-imsl.com/). 
 
 Research
