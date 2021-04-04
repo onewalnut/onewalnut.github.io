@@ -22,5 +22,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   [[PDF]](https://www.hetaooo.com/files/2019_ST-Loc.pdf)  [[Code]]()  [[Slide]]()
 * **DeepNavi: A deep signal-fusion framework for accurate and applicable indoor navigation.**  
   Qun Niu, Ning Liu, Jianjun Huang, Yangze Luo, Suining He, Tao He, S-H Gary Chan, Xiaonan Luo.     
-  *In Proceedings of Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2019**).*    
+  *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2019**).*    
   [[PDF]](https://www.hetaooo.com/files/2019_DeepNavi.pdf)  [[Code]]()  [[Slide]]()
