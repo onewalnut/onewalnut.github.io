@@ -2,7 +2,7 @@
 title: 'Future Blog Post'  
 date: 2199-01-01  
 excerpt: ""  
-permalink: /posts/2099/01/future-blog-post/
+permalink: /blogs/2099/01/future-blog-post/
 tags:
   - category1
   - category2
