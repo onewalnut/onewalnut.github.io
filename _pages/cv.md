@@ -9,8 +9,8 @@ redirect_from:
 
 Curriculum Vitae
 --------
-[Download English CV here](https://www.hetaooo.com/files/paper1.pdf)  
-[Download Chinese CV here](https://www.hetaooo.com//files/paper2.pdf)  
+[Download English CV here]()    
+[Download Chinese CV here]()  
 
 Contact
 --------
@@ -22,6 +22,7 @@ Sun Yat-sen University
 Guangzhou Higher Education Mega Center,  
 Guangzhou 510006, P.R. China  
 
-E-mail : hetao23@mail2.sysu.edu.cn, hetao419@foxmail.com  
+E-mail : hetao23@mail2.sysu.edu.cn    
+         hetao419@foxmail.com  
 
 
