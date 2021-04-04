@@ -23,14 +23,14 @@ Education
 
 News
 --------
-* New 1
-* New 2 
+* 2021.04: I establish my own homepage powered by Github Pages.
 
 
 Portfolio
 -------
-A cute sloth.
+A cute sloth who may love doing research.
 ![A cute sloth](/images/cute.jpg "A cute sloth")
+
 
 For more info
 -------
