@@ -1,6 +1,6 @@
 ---
 title: "Sloth"
-excerpt: "A cute sloth who may love doing research.<br/><img src='/images/cute.jpg'>"
+;excerpt: "A cute sloth who may love doing research.<br/><img src='/images/cute.jpg'>"
 collection: portfolio
 ---
 
