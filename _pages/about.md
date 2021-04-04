@@ -23,7 +23,7 @@ Education
 
 News
 --------
-* 2021.04: I establish my own homepage powered by Github Pages.
+* 2021.04: I establish my own homepage powered by Jekyll & AcademicPages.
 
 
 For more info
