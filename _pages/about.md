@@ -29,6 +29,7 @@ News
 Portfolio
 -------
 A cute sloth who may love doing research.
+
 ![A cute sloth](/images/cute.jpg "A cute sloth")
 
 
