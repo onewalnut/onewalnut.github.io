@@ -22,7 +22,6 @@ Sun Yat-sen University
 Guangzhou Higher Education Mega Center,  
 Guangzhou 510006, P.R. China  
 
-E-mail : hetao23@mail2.sysu.edu.cn    
-         hetao419@foxmail.com  
+E-mail : hetao23@mail2.sysu.edu.cn,  hetao419@foxmail.com  
 
 
