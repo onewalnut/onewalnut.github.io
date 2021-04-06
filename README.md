@@ -1,1 +1,1 @@
-This homepage is powered by the academicpages template and hosted on GitHub pages.
+This homepage is powered by the academicpages template.
