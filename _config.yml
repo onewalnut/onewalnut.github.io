@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tao He"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in School of Computer Science and Engineering, SYSU"
+  bio              : "Ph.D. student in School of Computer Science and Engineering, Sun Yat-sen University"
   location         : "Guangzhou, China"
   employer         :
   email            : "hetao23@mail2.sysu.edu.cn"
@@ -99,7 +99,7 @@ author:
   github           : "onewalnut"
   google_plus      :
   keybase          :
-  instagram        : "one.walnut"
+  instagram        : #"one.walnut"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
