@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tao He"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student in School of Computer Science and Engineering, Sun Yat-sen University"
+  bio              : "Ph.D. student in Sun Yat-sen University" #School of Computer Science and Engineering,
   location         : "Guangzhou, China"
   employer         :
   email            : "hetao23@mail2.sysu.edu.cn"
