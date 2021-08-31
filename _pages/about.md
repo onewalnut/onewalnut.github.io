@@ -9,7 +9,6 @@ redirect_from:
 
 
 I am currently a first-year Ph.D. student in [School of Computer Science and Engineering](http://sdcs.sysu.edu.cn), [Sun Yat-sen University](http://www.sysu.edu.cn),  supervised by Prof. [Ning Liu](http://sdcs.sysu.edu.cn/node/2495) in [Intelligent and Multimedia Science Laboratory](https://www.sysu-imsl.com). 
-
 My research interests mainly lie in **indoor navigation and positioning algorithms** and **location-based data analysis**, to channel theory and algorithms into empowering the location-based applications.
 
 Education
