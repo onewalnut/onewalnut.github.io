@@ -9,7 +9,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 2021
 --------
-* **Indoor Localization with Adaptive Signal Sequence Representations**  
+* **Indoor Localization with Adaptive Signal Sequence Representations.**  
   Ning Liu, **Tao He**, Suining He, Qun Niu.        
   *IEEE Transactions on Vehicular Technology. (to be published)*    
   [[PDF]]()  [[Code]]()  [[Slide]]()
