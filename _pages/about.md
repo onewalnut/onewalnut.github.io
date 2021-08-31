@@ -24,6 +24,7 @@ Education
 News
 --------
 * 2021.04: I establish my own homepage powered by Jekyll & AcademicPages.
+* 2021.08： A paper has been accepted for publication in the IEEE Transactions on Vehicular Technology.
 
 
 For more info
