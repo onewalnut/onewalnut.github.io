@@ -20,9 +20,9 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   Qun Niu, **Tao He**, Ning Liu, Suining He, Xiaonan Luo, Fan Zhou.        
   *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2020**).*    
   [[PDF]](https://www.hetaooo.com/files/2020_MAIL.pdf)  [[Code]]()  [[Slide]]()
-* **Trial Risk Assessment Based on Total Utility of Generalized Fuzzy Numbers.**
-  **Tao He**, Qi Yong, Chengying Gao.
-  *2020 11th International Conference on Prognostics and System Health Management*
+* **Trial Risk Assessment Based on Total Utility of Generalized Fuzzy Numbers.**      
+  **Tao He**, Qi Yong, Chengying Gao.   
+  *2020 11th International Conference on Prognostics and System Health Management.*     
   [[PDF]](https://www.hetaooo.com/files/2020_Trial.pdf)  [[Code]]()  [[Slide]]()
 
 2019
