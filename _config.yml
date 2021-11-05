@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tao He' Homepage"
 title_separator          : "-"
-name                     : &name "Tao He"
+name                     : &name "Tao He (何 涛)"
 description              : &description "Ph.D. student in School of Computer Science and Engineering, Sun Yat-sen University (SYSU)"
 url                      : https://www.hetaooo.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
