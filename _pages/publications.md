@@ -9,6 +9,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 2021
 --------
+* **Popularity-Guided Cost Optimization for Live Streaming in Mobile Edge Computing.**  
+  **Tao He**, Kunxin Zhu, Zhipeng Chen, Ruomei Wang, Fan Zhou.        
+  *Wireless Communications and Mobile Computing.*    
+  [[PDF]]()  [[Code]]()  [[Slide]]()
 * **Indoor Localization with Adaptive Signal Sequence Representations.**  
   Ning Liu, **Tao He**, Suining He, Qun Niu.        
   *IEEE Transactions on Vehicular Technology.*    
