@@ -7,7 +7,7 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=ETHNJ0QAAAAJ&hl=zh-CN).
 
-2021
+2022
 --------
 * **Efficient Indoor Localization with Multiple Consecutive Geomagnetic Sequences.**  
   Hui Zhuang, **Tao He**, Qun Niu, Ning Liu.        
