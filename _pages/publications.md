@@ -12,7 +12,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 * **Efficient Indoor Localization with Multiple Consecutive Geomagnetic Sequences.**  
   Hui Zhuang, **Tao He**, Qun Niu, Ning Liu.        
   *International Conference on Computer Communications and Networks (**ICCCN 2022**).*    
-  [[PDF]]()  [[Code]]()  [[Slide]]() 
+  [[PDF]](https://www.hetaooo.com/files/2022_ICCCN.pdf)  [[Code]]()  [[Slide]]() 
 
 2021
 --------
