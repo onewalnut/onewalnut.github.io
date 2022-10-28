@@ -9,6 +9,10 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 
 2022
 --------
+* **GC-Loc: A Graph Attention based Framework for Collaborative Indoor Localization using Infrastructure-free Signals.**  
+  **Tao He**, Qun Niu, Ning Liu.        
+  *In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2023**).*    
+  [[PDF]](https://www.hetaooo.com/files/2022_GC-Loc.pdf)  [[Code]]()  [[Slide]]() 
 * **Efficient Indoor Localization with Multiple Consecutive Geomagnetic Sequences.**  
   Hui Zhuang, **Tao He**, Qun Niu, Ning Liu.        
   *International Conference on Computer Communications and Networks (**ICCCN 2022**).*    
