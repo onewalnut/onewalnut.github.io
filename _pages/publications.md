@@ -7,6 +7,13 @@ author_profile: true
 
 You can also find my articles on my [Google Scholar profile](https://scholar.google.com/citations?user=ETHNJ0QAAAAJ&hl=zh-CN).
 
+2023
+--------
+* **Deep Inertial Odometry Using Hierarchical Temporal Features of IMU Sequences.**  
+  Mengya Kou, **Tao He**, Qun Niu, Ning Liu.         
+  *In Proceedings of 2019 IEEE Global Communications Conference (**GLOBECOM 2019**).*    
+  [[PDF]]()  [[Code]]()  [[Slide]]() 
+
 2022
 --------
 * **GC-Loc: A Graph Attention based Framework for Collaborative Indoor Localization using Infrastructure-free Signals.**  
