@@ -18,7 +18,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 --------
 * **GC-Loc: A Graph Attention based Framework for Collaborative Indoor Localization using Infrastructure-free Signals.**  
   **Tao He**, Qun Niu, Ning Liu.        
-  *ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2023**).*    
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2023**).*    
   [[PDF]](https://www.hetaooo.com/files/2022_GC-Loc.pdf)  [[Code]]()  [[Slide]]() 
 * **Efficient Indoor Localization with Multiple Consecutive Geomagnetic Sequences.**  
   Hui Zhuang, **Tao He**, Qun Niu, Ning Liu.        
@@ -40,7 +40,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 --------
 * **MAIL: Multi-scale attention-guided indoor localization using geomagnetic sequences.**  
   Qun Niu, **Tao He**, Ning Liu, Suining He, Xiaonan Luo, Fan Zhou.        
-  *ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2020**).*    
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2020**).*    
   [[PDF]](https://www.hetaooo.com/files/2020_MAIL.pdf)  [[Code]]()  [[Slide]]()
 * **Trial Risk Assessment Based on Total Utility of Generalized Fuzzy Numbers.**      
   **Tao He**, Qi Yong, Chengying Gao.   
@@ -55,5 +55,5 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
   [[PDF]](https://www.hetaooo.com/files/2019_ST-Loc.pdf)  [[Code]]()  [[Slide]]()
 * **DeepNavi: A deep signal-fusion framework for accurate and applicable indoor navigation.**  
   Qun Niu, Ning Liu, Jianjun Huang, Yangze Luo, Suining He, **Tao He**, S-H Gary Chan, Xiaonan Luo.     
-  *ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2019**).*    
+  *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**UbiComp 2019**).*    
   [[PDF]](https://www.hetaooo.com/files/2019_DeepNavi.pdf)  [[Code]]()  [[Slide]]()
