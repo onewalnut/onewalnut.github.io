@@ -11,7 +11,7 @@ You can also find my articles on my [Google Scholar profile](https://scholar.goo
 --------
 * **Deep Inertial Odometry Using Hierarchical Temporal Features of IMU Sequences.**  
   Mengya Kou, **Tao He**, Qun Niu, Ning Liu.         
-  *In Proceedings of 2019 IEEE Global Communications Conference (**GLOBECOM 2019**).*    
+  *In Proceedings of 2023 IEEE Global Communications Conference (**GLOBECOM 2023**).*    
   [[PDF]]()  [[Code]]()  [[Slide]]() 
 
 2022
